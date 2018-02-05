@@ -215,7 +215,7 @@ padding-bottom: 10px;
 .texto-contato h1 {
 	font-size: 70px;
 	font-weight: 900;
-	letter-spacing: -0.05em;
+	letter-spacing: 0.00em;
 	color:rgba(255, 255, 255, 1);
 	text-shadow: 2px 2px black;
 }
@@ -223,7 +223,7 @@ padding-bottom: 10px;
 .conteudo1 h1 {
 	font-size: 70px;
 	font-weight: 900;
-	letter-spacing: -0.05em;
+	letter-spacing: 0.00em;
 	color:rgba(255, 255, 255, 1);
 	text-shadow: 2px 2px black;
 }
@@ -241,7 +241,7 @@ padding-bottom: 10px;
 .conteudo1 p {
 	font-size: 20px;
 	font-weight: 500;
-	letter-spacing: -0.05em;
+	letter-spacing: 0.00em;
 	color: black;
 	
 }
@@ -253,7 +253,7 @@ padding-bottom: 10px;
 .reserva-1 h1 {
 	font-size: 40px;
 	font-weight: 500;
-	letter-spacing: -0.05em;
+	letter-spacing: 0.00em;
 	color:rgba(25, 25, 25, 1);
 	
 }
@@ -261,18 +261,18 @@ padding-bottom: 10px;
 .reserva-1 p {
 	font-size: 20px;
 	font-weight: 100;
-	letter-spacing: -0.05em;
+	letter-spacing: 0.00em;
 }
 
 .reserva-2 h1 {
 	font-size: 40px;
 	font-weight: 500;
-	letter-spacing: -0.05em;
+	letter-spacing: 0.00em;
 	color:rgba(25, 25, 25, 1);
 }
 
 .reserva-2 p {
 	font-size: 20px;
 	font-weight: 100;
-	letter-spacing: -0.05em;
+	letter-spacing: 0.00em;
 }
